@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mir Rafath Ali</h1>
-<h3 align="center">A passionate software developer and cloud computing enthusiast. from India</h3>
+<h3 align="center">A passionate software developer and cloud computing enthusiast from India</h3>
 
 - 📫 How to reach me **mirrafathali100@gmail.com**
 
